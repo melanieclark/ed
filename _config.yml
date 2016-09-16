@@ -2,7 +2,7 @@
 
 # Setup
 title:               The New New York Edition
-tagline:             'A Jekyll theme for minimal editions'
+tagline:             'A scholarly edition of Henry James for the 21st century'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://melanieclark.github.io'
 baseurl:             '/ed'
